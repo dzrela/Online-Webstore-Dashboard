@@ -1,6 +1,8 @@
 # 🛍️🛜 Online Webstore Dashboard
 
 ## [Link to Dashboard](https://lookerstudio.google.com/reporting/ff1e8cd6-c52f-47dd-abd8-2740b0ca65d6)
+> [!IMPORTANT]
+> Data was generated for Q4 of 2023, meaning all data falls within the 1st of October 2023 to the 31st of December 2023
 
 ## Summary
 
